@@ -1,3 +1,3 @@
 # delta
-this is a repository for delta course
+this is a ry for delta course
 # gurpreet ji...
